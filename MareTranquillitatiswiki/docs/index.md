@@ -1,17 +1,27 @@
-# Welcome to Mare Tranquillitatis wiki
+# 欢迎来到静海集团Wiki
+_`’ Welcome to Mare Tranquillitatis wiki ‘`_
 
-F111
+###### _** 身份认证中...**_
 
-## Commands
+###### _** 欢迎访问，静海智能终端-雲 为您服务 **_
+## 集团简介
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `12345678` - 22345678
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## 今日团建
+？？？
+
+## 今日名言
+
+    
+    色孽犹如洪水猛兽，危害集团有志青年 -- Mr salt fish
+        
+
+## 公告
+
+::: src.公告
+
+
+
